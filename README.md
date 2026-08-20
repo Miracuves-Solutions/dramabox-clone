@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdramabox.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/dramabox-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/dramabox-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/dramabox-clone/#included)
 
 **MXDramaBox** is a production-ready, white-label Dramabox clone: a complete short-video social platform with creator studio, monetization, and admin moderation — delivered with **100% source code ownership** in **6 working days**.
 
@@ -80,10 +80,10 @@ Custom short-video platforms run $100k–$500k and 6–10 months. A proven white
 ## 📚 Resources
 
 - 📖 [Dramabox Clone — Full Solution Page](https://miracuves.com/dramabox-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Short-Video App Cost in 2026?](https://miracuves.com/dramabox-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Dramabox Clone Script in 2026](https://miracuves.com/dramabox-clone/blog/) features, pricing & launch guide
-- 🧠 [Why Vertical Video Beats Horizontal for the Next Decade](https://miracuves.com/dramabox-clone/blog/) lessons from TikTok & Reels
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/dramabox-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Short-Video App Cost in 2026?](https://miracuves.com/dramabox-clone#features) pricing breakdown & what's included
+- 📝 [Best Dramabox Clone Script in 2026](https://miracuves.com/dramabox-clone#features) features, pricing & launch guide
+- 🧠 [Why Vertical Video Beats Horizontal for the Next Decade](https://miracuves.com/dramabox-clone#features) lessons from TikTok & Reels
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/dramabox-clone#faq) every claim we make, verified
 
 ## 🏢 About Miracuves
 
